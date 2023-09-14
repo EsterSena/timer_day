@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    border: 1px solid rgb(157, 157, 252);
+    margin-top: 10%;
+    width: 60%;
+    margin-left: 22em;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #a9a9a9;
+    border-radius: 0.8em;
+}
+
+body {
+    background-color: #faf3e0;
+}
+
+h1 {
+    margin-top: 2em;
+}
+
+.contagem {
+    margin-top: 1em;
+    font-size: 4em;
+    margin-bottom: 1em;
+}
+
+p {
+    color: red;
+    font-size: 2em;
+}
